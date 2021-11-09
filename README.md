@@ -5,6 +5,8 @@ Build & Deploy a Movie App With NuxtJS | NuxtJS Crash Course (2021)
 
 Demo: [https://hasnularief.github.io/nuxt2-app-ts/](https://hasnularief.github.io/nuxt2-app-ts/)
 
+and.... using typescript
+
 ## Build Setup
 
 ```bash
